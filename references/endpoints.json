@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://docs.csqaq.com/api-v1-current-data-get.md",
+    "path": "/api/v1/current_data",
+    "method": "GET",
+    "operationId": "api_v1_current_data_get",
+    "summary": "获取当前市场数据",
+    "tags": ["market", "data"],
+    "doc_id": "api-v1-current-data-get"
+  },
+  {
+    "url": "https://docs.csqaq.com/api-v1-info-good-get.md",
+    "path": "/api/v1/info/good",
+    "method": "GET",
+    "operationId": "api_v1_info_good_get",
+    "summary": "获取饰品详细信息",
+    "tags": ["info", "goods"],
+    "doc_id": "api-v1-info-good-get"
+  }
+]
