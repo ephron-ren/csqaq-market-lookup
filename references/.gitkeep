@@ -1,0 +1,3 @@
+# References directory
+# This directory contains generated API documentation files
+# These files are created by running: python scripts/csqaq_api.py sync
